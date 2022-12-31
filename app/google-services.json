@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631027759929",
+    "project_id": "crimcone-2d499",
+    "storage_bucket": "crimcone-2d499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631027759929:android:1ff1bc1041925b8d8386e8",
+        "android_client_info": {
+          "package_name": "com.example.crimcone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631027759929-k33d0aig84lnhuq5g9qjh04cncep7jq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALybIfARId7gGmOO5fPnrgCr7S2jNK1Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631027759929-k33d0aig84lnhuq5g9qjh04cncep7jq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
